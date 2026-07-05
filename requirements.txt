@@ -1,5 +1,5 @@
 # Minimal Requirements for Privacy-Preserving ML Project
-# Core dependencies only
+# Core dependencies
 
 # Core ML
 torch>=2.0.0
